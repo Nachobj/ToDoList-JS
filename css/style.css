@@ -1,0 +1,11 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 20px;
+    background-color: aqua;
+}
+
+li {
+    margin: 10px 0;
+    list-style: none;
+}
